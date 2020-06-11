@@ -1,0 +1,33 @@
+body{
+    background-color: cornflowerblue;
+}
+
+section{
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h1, footer{
+    text-align: center;
+}
+
+footer{
+    margin-top: 15px;
+}
+
+#btn{
+    text-align: center;
+    align-items: center;
+}
+
+img#foto{
+    margin-top: 16px;
+}
+
+p#res{
+    font-size: 15pt;
+    font-weight: bold;
+}
